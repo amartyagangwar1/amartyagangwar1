@@ -1,16 +1,15 @@
-## Hi there 👋
+# Amartya Gangwar
 
-<!--
-**amartyagangwar1/amartyagangwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE @ UT Austin — Electronics & Integrated Circuits track  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**[systemverilog-uart](https://github.com/amartyagangwar1/systemverilog-uart)** — SystemVerilog  
+Parameterized UART core built from scratch. Covers baud rate generation, TX/RX FSMs with mid-bit sampling, and full loopback verification via self-checking testbenches.
+
+**[fpga-programmable-timer](https://github.com/amartyagangwar1/fpga-programmable-timer)** — Verilog  
+4-digit programmable timer deployed on Basys 3 (Xilinx Artix-7). FSM controller, cascaded BCD datapath, multiplexed 7-segment display, metastability-safe inputs.
+
+---
