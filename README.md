@@ -1,6 +1,6 @@
 # Amartya Gangwar
 
-ECE @ UT Austin — Electronics & Integrated Circuits track  
+Electrical and Computer Engineering at The University of Texas at Austin — Electronics & Integrated Circuits track  
 
 ---
 
